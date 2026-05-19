@@ -35,7 +35,7 @@ function App() {
       quote: "A professional space to showcase skills, projects and creativity.",
       image: "/project3.png",
       tech: ["React", "Tailwind CSS", "Vite"],
-      live: "https://shireen-portfolio-vqva.onrender.com",
+      live: "https://shireen-portfolio-hl89.onrender.com",
     },
   ];
 
